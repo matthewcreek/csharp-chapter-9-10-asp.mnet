@@ -8,7 +8,7 @@ public class HelloController : Controller
     [HttpGet]
     public IActionResult Index()
     {
-        string html = "<form method='post' action='/helloworld'>" +
+        string html = "<form method='post' action='/helloworld/welcome'>" +
             "<input type='text' name='name' />" +
             "<input type='submit' value='Greet Me!' />" +
             "</form>";
