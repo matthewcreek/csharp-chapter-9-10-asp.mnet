@@ -28,3 +28,4 @@
 /Users/matthewcreek/Desktop/LaunchCode/csharp/chapters/chapter9/HelloASPDotNet/obj/Debug/net6.0/HelloASPDotNet.pdb
 /Users/matthewcreek/Desktop/LaunchCode/csharp/chapters/chapter9/HelloASPDotNet/obj/Debug/net6.0/HelloASPDotNet.genruntimeconfig.cache
 /Users/matthewcreek/Desktop/LaunchCode/csharp/chapters/chapter9/HelloASPDotNet/obj/Debug/net6.0/ref/HelloASPDotNet.dll
+/Users/matthewcreek/Desktop/LaunchCode/csharp/chapters/chapter9/HelloASPDotNet/obj/Debug/net6.0/HelloASPDotNet.sourcelink.json
