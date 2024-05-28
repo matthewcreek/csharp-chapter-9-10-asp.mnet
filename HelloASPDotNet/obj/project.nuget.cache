@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IYvUkS6w03HKSQHPMQ2KirzaIGUFsGtJi+H3ltEaC2FVqzvr/axky4sNlKNUsLnSQtBU67/eY618i/3aBU9mkg==",
+  "success": true,
+  "projectFilePath": "/Users/matthewcreek/Desktop/LaunchCode/csharp/chapters/chapter9/HelloASPDotNet/HelloASPDotNet.csproj",
+  "expectedPackageFiles": [
+    "/Users/matthewcreek/.nuget/packages/microsoft.netcore.app.ref/6.0.29/microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "/Users/matthewcreek/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.29/microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "/Users/matthewcreek/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.29/microsoft.netcore.app.host.osx-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
