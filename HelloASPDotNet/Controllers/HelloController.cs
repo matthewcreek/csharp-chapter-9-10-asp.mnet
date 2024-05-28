@@ -1,63 +1,87 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace HelloASPDotNet.Controllers;
+// For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
-[Route("/helloworld")]
-public class HelloController : Controller
+namespace HelloASPDotNET.Controllers
 {
-    [HttpGet]
-    public IActionResult Index()
+    [Route("/helloworld")]
+    public class HelloController : Controller
     {
-        string html = "<form method='post' action='/helloworld/welcome'>" +
-            "<input type='text' name='name' />" +
-            "<select name='language'>" + 
-            "<option value='english'>English</option>" +
-            "<option value='spanish'>Spanish</option>" +
-            "<option value='french'>French</option>" +
-            "<option value='bosniam'>Bosnian</option>" +
-            "<option value='vietnamese'>Vietnamese</option>" +
-            "</select>" +
-            "<input type='submit' value='Greet Me!' />" +
-            "</form>";
-
-        return Content(html, "text/html");
-    }
-
-    // [HttpGet("welcome/{name?}")]
-    // [HttpPost("welcome")]
-    // public IActionResult Welcome(string name = "World")
-    // {
-    //     return Content($"Welcome to my app, {name}!", "text/html");
-    // }
-
-    [HttpGet("welcome/{name?}")]
-    [HttpPost("welcome")]
-    public IActionResult Display(string name = "World", string language = "english")
-    {
-        return Content(CreateMessage(name, language));
-    }
-
-    public static string CreateMessage(string name, string language) 
-    {
-        string helloTranslation = "";
-        switch (language)
+        // GET: /<controller>/
+        //NOTE: This is the updated Index method.
+        //Students could make this a separate method but will need to provide a route
+        [HttpGet]
+        public IActionResult Index()
         {
-            case "french":
-                helloTranslation = "Bonjour ";
-                break;
-             case "spanish":
-                 helloTranslation = "Hola ";
-                 break;
-             case "bosnian":
-                 helloTranslation = "Zdravo ";
-                 break;
-             case "vietnamese":
-                 helloTranslation = "Xin Chao ";
-                 break;
-             case "english":
-                 helloTranslation = "Hello ";
-                 break;
+            string html = "<form method='post'>" +
+                "<input type='text' name='name' />" +
+                "<select name='language'><option value='english' selected>English</option>" +
+                "<option value='spanish'>Spanish</spanish>" +
+                "<option value='bosnian'>Bosnian</option>" +
+                "<option value='vietnamese'>Vietnamese</option>" +
+                "<option value='french'>French</option></select>" +
+                "<input type='submit' value='Greet Me!'/>" +
+                "</form>";
+
+            return Content(html, "text/html");
+
         }
-        return helloTranslation + name;
+
+        // POST: /<controller>/
+        //NOTE: This is a new method created by students.
+
+        [HttpPost]
+        public IActionResult Display(string name = "World", string language = "english")
+        {
+            return Content(CreateMessage(name, language));
+
+        }
+
+        public static string CreateMessage(string name, string language)
+        {
+            string helloTranslation = "";
+            switch (language)
+            {
+                case "french":
+                    helloTranslation = "Bonjour ";
+                    break;
+                case "spanish":
+                    helloTranslation = "Hola ";
+                    break;
+                case "bosnian":
+                    helloTranslation = "Zdravo ";
+                    break;
+                case "vietnamese":
+                    helloTranslation = "Xin Chao ";
+                    break;
+                case "english":
+                    helloTranslation = "Hello ";
+                    break;
+            }
+            return helloTranslation + name;
+
+        }
+        // For a bonus mission, students can change this response text to look nicer.
+        // This is subjective, but students should be modifying the HTML of the response string.
+
+
+
+        // NOTE:This is the method they create as they follow along in the reading:
+        // https://education.launchcode.org/csharp-web-development/chapters/aspdotnet-controllers-and-routes/index.html
+
+        // GET: /<controller>/welcome?name=value or GET: /<controller>/welcome/name
+        // POST: /<controller>/welcome
+
+        [HttpGet("welcome/{name?}")]
+        [HttpPost("welcome")]
+        public IActionResult Welcome(string name = "World")
+        {
+            return Content("<h1>Welcome to my app, " + name + "!</h1>", "text/html");
+        }
     }
+
 }
