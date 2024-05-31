@@ -13,39 +13,9 @@ public class HelloController : Controller
 
     [HttpPost]
     [Route("/hello")]
-    public IActionResult Welcome(string name = "World")
+    public IActionResult Welcome(string name)
     {
-        return Content($"Welcome to my app, {name}!", "text/html");
+        ViewBag.person = name;
+        return View();
     }
-
-    // [HttpGet("welcome/{name?}")]
-    // [HttpPost("welcome")]
-    // public IActionResult Display(string name = "World", string language = "english")
-    // {
-    //     return Content(CreateMessage(name, language));
-    // }
-
-    // public static string CreateMessage(string name, string language) 
-    // {
-    //     string helloTranslation = "";
-    //     switch (language)
-    //     {
-    //         case "french":
-    //             helloTranslation = "Bonjour ";
-    //             break;
-    //          case "spanish":
-    //              helloTranslation = "Hola ";
-    //              break;
-    //          case "bosnian":
-    //              helloTranslation = "Zdravo ";
-    //              break;
-    //          case "vietnamese":
-    //              helloTranslation = "Xin Chao ";
-    //              break;
-    //          case "english":
-    //              helloTranslation = "Hello ";
-    //              break;
-    //     }
-    //     return helloTranslation + name;
-    // }
 }

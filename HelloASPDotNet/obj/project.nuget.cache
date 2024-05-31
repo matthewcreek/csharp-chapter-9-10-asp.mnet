@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "IYvUkS6w03HKSQHPMQ2KirzaIGUFsGtJi+H3ltEaC2FVqzvr/axky4sNlKNUsLnSQtBU67/eY618i/3aBU9mkg==",
+  "dgSpecHash": "uSkPAH6GVwr9axSTHoLnz3FUoPj2sWOlvA9zlJWIxrUIpo3QClk9s+UN9d6h4s0XEQGCbeTSJ7ZXEaUqvx3K6w==",
   "success": true,
-  "projectFilePath": "/Users/matthewcreek/Desktop/LaunchCode/csharp/chapters/chapter9/HelloASPDotNet/HelloASPDotNet.csproj",
+  "projectFilePath": "D:\\Coding\\Launchcode IA\\csharp\\chapters\\chapter9\\csharp-chapter-9-10-asp.mnet\\HelloASPDotNet\\HelloASPDotNet.csproj",
   "expectedPackageFiles": [
-    "/Users/matthewcreek/.nuget/packages/microsoft.netcore.app.ref/6.0.29/microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "/Users/matthewcreek/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.29/microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
-    "/Users/matthewcreek/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.29/microsoft.netcore.app.host.osx-x64.6.0.29.nupkg.sha512"
+    "C:\\Users\\matth\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\matth\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\matth\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\matth\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
   ],
   "logs": []
 }

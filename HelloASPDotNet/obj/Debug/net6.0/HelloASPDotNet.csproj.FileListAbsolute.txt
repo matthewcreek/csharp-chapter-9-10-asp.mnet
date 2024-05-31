@@ -29,3 +29,34 @@
 /Users/matthewcreek/Desktop/LaunchCode/csharp/chapters/chapter9/HelloASPDotNet/obj/Debug/net6.0/HelloASPDotNet.genruntimeconfig.cache
 /Users/matthewcreek/Desktop/LaunchCode/csharp/chapters/chapter9/HelloASPDotNet/obj/Debug/net6.0/ref/HelloASPDotNet.dll
 /Users/matthewcreek/Desktop/LaunchCode/csharp/chapters/chapter9/HelloASPDotNet/obj/Debug/net6.0/HelloASPDotNet.sourcelink.json
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\bin\Debug\net6.0\appsettings.Development.json
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\bin\Debug\net6.0\appsettings.json
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\bin\Debug\net6.0\HelloASPDotNet.staticwebassets.runtime.json
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\bin\Debug\net6.0\HelloASPDotNet.exe
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\bin\Debug\net6.0\HelloASPDotNet.deps.json
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\bin\Debug\net6.0\HelloASPDotNet.runtimeconfig.json
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\bin\Debug\net6.0\HelloASPDotNet.dll
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\bin\Debug\net6.0\HelloASPDotNet.pdb
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\obj\Debug\net6.0\HelloASPDotNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\obj\Debug\net6.0\HelloASPDotNet.AssemblyInfoInputs.cache
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\obj\Debug\net6.0\HelloASPDotNet.AssemblyInfo.cs
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\obj\Debug\net6.0\HelloASPDotNet.csproj.CoreCompileInputs.cache
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\obj\Debug\net6.0\HelloASPDotNet.MvcApplicationPartsAssemblyInfo.cache
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\obj\Debug\net6.0\HelloASPDotNet.RazorAssemblyInfo.cache
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\obj\Debug\net6.0\HelloASPDotNet.RazorAssemblyInfo.cs
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\obj\Debug\net6.0\HelloASPDotNet.sourcelink.json
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\obj\Debug\net6.0\staticwebassets.build.json
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\obj\Debug\net6.0\staticwebassets.development.json
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\obj\Debug\net6.0\staticwebassets\msbuild.HelloASPDotNet.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\obj\Debug\net6.0\staticwebassets\msbuild.build.HelloASPDotNet.props
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HelloASPDotNet.props
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HelloASPDotNet.props
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\obj\Debug\net6.0\scopedcss\bundle\HelloASPDotNet.styles.css
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\obj\Debug\net6.0\scopedcss\projectbundle\HelloASPDotNet.bundle.scp.css
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\obj\Debug\net6.0\HelloASPDotNet.dll
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\obj\Debug\net6.0\refint\HelloASPDotNet.dll
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\obj\Debug\net6.0\HelloASPDotNet.pdb
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\obj\Debug\net6.0\HelloASPDotNet.genruntimeconfig.cache
+D:\Coding\Launchcode IA\csharp\chapters\chapter9\csharp-chapter-9-10-asp.mnet\HelloASPDotNet\obj\Debug\net6.0\ref\HelloASPDotNet.dll

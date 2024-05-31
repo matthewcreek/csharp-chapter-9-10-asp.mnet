@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/matthewcreek/.nuget/packages/": {}
+    "C:\\Users\\matth\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/matthewcreek/Desktop/LaunchCode/csharp/chapters/chapter9/HelloASPDotNet/HelloASPDotNet.csproj",
+      "projectUniqueName": "D:\\Coding\\Launchcode IA\\csharp\\chapters\\chapter9\\csharp-chapter-9-10-asp.mnet\\HelloASPDotNet\\HelloASPDotNet.csproj",
       "projectName": "HelloASPDotNet",
-      "projectPath": "/Users/matthewcreek/Desktop/LaunchCode/csharp/chapters/chapter9/HelloASPDotNet/HelloASPDotNet.csproj",
-      "packagesPath": "/Users/matthewcreek/.nuget/packages/",
-      "outputPath": "/Users/matthewcreek/Desktop/LaunchCode/csharp/chapters/chapter9/HelloASPDotNet/obj/",
+      "projectPath": "D:\\Coding\\Launchcode IA\\csharp\\chapters\\chapter9\\csharp-chapter-9-10-asp.mnet\\HelloASPDotNet\\HelloASPDotNet.csproj",
+      "packagesPath": "C:\\Users\\matth\\.nuget\\packages\\",
+      "outputPath": "D:\\Coding\\Launchcode IA\\csharp\\chapters\\chapter9\\csharp-chapter-9-10-asp.mnet\\HelloASPDotNet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/matthewcreek/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\matth\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -65,11 +65,15 @@
             "version": "[6.0.29, 6.0.29]"
           },
           {
-            "name": "Microsoft.NETCore.App.Host.osx-x64",
+            "name": "Microsoft.NETCore.App.Host.win-x64",
             "version": "[6.0.29, 6.0.29]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.29, 6.0.29]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
             "version": "[6.0.29, 6.0.29]"
           }
         ],
@@ -81,7 +85,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }
